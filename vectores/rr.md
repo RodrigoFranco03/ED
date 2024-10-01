@@ -70,4 +70,4 @@ int main()
 }
 ```
 
-![Imagen] (https://p325k7wa.twic.pics/high/gundam/gundam-breaker-4/00-page-setup/GB4-header-mobile.png?twic=v1/step=10/quality=80/max=760.jpg)
+![Imagen](https://p325k7wa.twic.pics/high/gundam/gundam-breaker-4/00-page-setup/GB4-header-mobile.png?twic=v1/step=10/quality=80/max=760.jpg)
